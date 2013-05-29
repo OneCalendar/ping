@@ -1,3 +1,3 @@
 ping onecalendar.fr
 
-http://onecalendar/github.com/ping
+http://onecalendar.github.com/ping
